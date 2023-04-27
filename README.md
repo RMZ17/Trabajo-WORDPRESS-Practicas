@@ -24,6 +24,7 @@ Carrito:
 ![image](https://user-images.githubusercontent.com/125528147/234761332-d2c09e47-4089-4dfd-976d-e7e633ea03c3.png)
 
 Carrito lateral:
+
 ![image](https://user-images.githubusercontent.com/125528147/234761411-63f5bfc6-7160-4712-a6b6-d42beabb30ce.png)
 
 Presentación de productos:
